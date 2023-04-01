@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Program
+namespace Hammerfrost.CardStudio.Program
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
