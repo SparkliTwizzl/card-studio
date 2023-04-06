@@ -120,4 +120,10 @@
   <data name="AppName" xml:space="preserve">
     <value>Hammerfrost Card Studio</value>
   </data>
+  <data name="CurrentVersion" xml:space="preserve">
+    <value>0.0.0</value>
+  </data>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>Hammerfrost Card Studio 0.0.0</value>
+  </data>
 </root>
