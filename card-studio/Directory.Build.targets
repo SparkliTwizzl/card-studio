@@ -1,9 +1,0 @@
-<Project>
-
-	<!-- MSBuild properties -->
-	<PropertyGroup>
-		<Company>$(CompanyName)</Company>
-		<RootNamespace>$(CompanyName).$(ProjectName).$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
-	</PropertyGroup>
-
-</Project>
