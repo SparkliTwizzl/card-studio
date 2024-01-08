@@ -3,6 +3,8 @@
 <h3 align="center">Version 0.0</h3>
 <h4 align="center">/ˈspilɪˌkɔːr/ (noun) The scent of cards, particularly that of playing cards.</h4>
 
+<div align="center">Part of the <a href="https://github.com/SparkliTwizzl/trioxichor">Trioxichor project</a>.</div>
+
 ---
 
 [Source code and releases](https://github.com/SparkliTwizzl/spilichor)
