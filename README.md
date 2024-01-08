@@ -1,4 +1,4 @@
-<div align="center"><image width="200" src="./logo.png"></div>
+<div align="center"><image width="200" src="./branding/logo.png"></div>
 <h1 align="center">Spilichor</h1>
 <h3 align="center">Version 0.0</h3>
 <h4 align="center">/ˈspilɪˌkɔːr/ (noun) The scent of cards, particularly that of playing cards.</h4>
